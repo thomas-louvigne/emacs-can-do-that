@@ -1,10 +1,10 @@
 #+TITLE: EMACS can do that ?
 
 * Intro
-  - Le site internet de promotion “[[https://vscodecandothat.com/][VSCodeCanDoThat.com]]” proposes 35 points “incroyable” que VS code peut faire.
-  - Je vous propose de lancer “EMACS CAN DO THAT” qui reprendrait ces points.
-  - Si ca marche on pourrait en faire un petit site internet pour troller :)
-  - C'est le début du projet
+  - The website “[[https://vscodecandothat.com/][VSCodeCanDoThat.com]]” talk about 35 /amazing points/ than VSCode can do.
+  - I think EMACS can do all this stuff... And more !
+  - It this project works, why not building a website ? emacsCanDoThat.com ?
+  - The project just start...
 
 * Comparaison
 
