@@ -6,7 +6,7 @@
   - It this project works, why not building a website ? emacsCanDoThat.com ?
   - The project just start...
 
-* TODO :
+* TODO List:
   - 07 : Share your localhost
   - 09 : Version Lense
   - 12 : Serverless
