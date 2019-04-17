@@ -1,9 +1,9 @@
 #+TITLE: EMACS can do that ?
 
 * Intro
-  - The website “[[https://vscodecandothat.com/][VSCodeCanDoThat.com]]” talk about 36 /amazing points/ than VSCode can do.
+  - The website “[[https://vscodecandothat.com/][VSCodeCanDoThat.com]]” talk about 36 /amazing points/ that VSCode can do.
   - I think EMACS can do all this stuff... And more !
-  - It this project works, why not building a website ? emacsCanDoThat.com ?
+  - If this project works, why not creat a website ? emacsCanDoThat.com ?
   - The project just start...
 
 * TODO List:
